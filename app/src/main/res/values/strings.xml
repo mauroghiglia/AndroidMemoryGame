@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcome_text">Welcome to Tic Tac Toe</string>
+    <string name="play_game">Play Game</string>
+    <string name="about_game">About Game</string>
+    <string name="wins">Found all pairs</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_play">PlayActivity</string>
+</resources>
